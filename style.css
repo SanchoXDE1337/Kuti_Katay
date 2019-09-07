@@ -92,7 +92,7 @@ h1:hover, h2:hover, h3:hover{
 }
 
 .text {
-    padding: 5vh 10vw;
+    padding: 0vh 10vw 5vh;
     border-right: #6F6F6F solid 0.12vw;
 }
 
