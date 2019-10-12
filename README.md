@@ -1,8 +1,9 @@
 # Kuti_Katay
-Доделать Scroll
 
-Landing
+### [Landing](https://sanchoxde1337.github.io/Kuti_Katay/)
 
-SkateLife again...
+### SkateLife again...
 
-https://sanchoxde1337.github.io/Kuti_Katay/
+TODO: Доделать Scroll
+
+
