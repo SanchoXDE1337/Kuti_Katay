@@ -1,13 +1,14 @@
-/*const
+/*
+TODO: Доделать постраничный скроллинг
+===================
 
 window.addEventListener('scroll', function() {
     document.getElementById('showScroll').innerHTML = pageYOffset + 'px';
 });
 
-window.scrollTo(pageX,pageY)
-/!*
+window.scrollTo(pageX,pageY);
 
-elem.scrollIntoView(top)*!/*/
+elem.scrollIntoView(top);
 const clientHeight = document.documentElement.clientHeight;
 let scrollPos = 0;
 let scrollDirection = '';
@@ -29,3 +30,4 @@ window.addEventListener('scroll', function(){
     scrollPos = (document.body.getBoundingClientRect()).top;
     setTimeout(scroller, 500, scrollDirection)
 });
+*/
